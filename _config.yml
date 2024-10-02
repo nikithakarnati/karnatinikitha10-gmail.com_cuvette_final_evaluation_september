@@ -2,7 +2,4 @@
 
 exclude:
   - node_modules
-  - vendor
-  - README.md
-  - CHANGELOG.md
-  - "*.md"  # Ensure proper quoting for wildcards
+ 
